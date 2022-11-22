@@ -1,0 +1,7 @@
+.root {
+  @apply w-full bg-ui4 h-3 rounded-full;
+}
+
+.progress {
+  @apply bg-white h-3 rounded-full;
+}

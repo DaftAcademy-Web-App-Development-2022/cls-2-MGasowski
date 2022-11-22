@@ -1,0 +1,11 @@
+.root {
+  @apply p-4;
+}
+
+.container {
+  @apply flex  h-24  items-center;
+}
+
+.progressSection {
+  @apply p-2 flex-1 flex flex-col content-center;
+}
